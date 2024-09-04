@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "react/jsx-filename-extension": [
+    1,
+    { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
+  ]
+}
